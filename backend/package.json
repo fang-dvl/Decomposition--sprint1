@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "frontend.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node backend.js"
   },
   "dependencies": {
     "cors": "^2.8.6",
